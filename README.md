@@ -4,10 +4,20 @@ Inspired by @agamm and @mmccaff, this repository is **for developer-first produc
 
 ## contents
 
-* [subreddits](#reddit)
+* [repositories](#repositories)
+* [subreddits](#subreddits)
 * [websites](#websites)
 
-## Reddit
+## repositories
+
+* [agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first)
+* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+* [opencompany/awesome-open-company](https://github.com/opencompany/awesome-open-company)
+* [runacapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
+
+[back to top](#contents)
+
+## subreddits
 
 * [/r/AlphaandBetausers](https://www.reddit.com/r/alphaandbetausers/)
 * [/r/Entrepreneur](http://reddit.com/r/entrepreneur)
