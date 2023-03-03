@@ -1,19 +1,27 @@
 # awesome-developer-first-directories
 
-Inspired by @agamm and @mmccaff, this repository is **for developer-first products.**
+Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmccaff](https://github.com/mmccaff/PlacesToPostYourStartup), this repository lists great places **for developer-first products.**
 
 ## contents
 
-* [repositories](#repositories)
-* [subreddits](#subreddits)
+* [github](#repositories)
+* [medium](#publications)
+* [reddit](#subreddits)
 * [websites](#websites)
 
 ## repositories
 
 * [agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first)
-* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 * [opencompany/awesome-open-company](https://github.com/opencompany/awesome-open-company)
+* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 * [runacapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
+
+[back to top](#contents)
+
+## publications
+
+* [Better Programming](https://betterprogramming.pub/write-for-us-5c4bcba59397)
+* [CodeX](https://medium.com/codex/write-to-codex-428b6d509452)
 
 [back to top](#contents)
 
