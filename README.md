@@ -4,12 +4,13 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 ## contents
 
-* [github](#repositories)
-* [medium](#publications)
+* [github](#github-repositories)
+* [medium](#medium-publications)
+* [podcasts](#podcasts)
 * [reddit](#subreddits)
 * [websites](#websites)
 
-## repositories
+## GitHub repositories
 
 * [agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first)
 * [opencompany/awesome-open-company](https://github.com/opencompany/awesome-open-company)
@@ -18,10 +19,20 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 [↑ back to top](#contents)
 
-## publications
+## Medium publications
 
 * [Better Programming](https://betterprogramming.pub/write-for-us-5c4bcba59397)
 * [CodeX](https://medium.com/codex/write-to-codex-428b6d509452)
+
+[↑ back to top](#contents)
+
+## podcasts
+
+* [Command Line Heroes](https://podcasts.apple.com/nl/podcast/command-line-heroes/id1319947289)
+* [Frond End Happy Hour](https://podcasts.apple.com/nl/podcast/front-end-happy-hour/id1089047924)
+* [North meets South](https://podcasts.apple.com/nl/podcast/north-meets-south-web-podcast/id1123508667)
+* [Screaming in the Cloud](https://podcasts.apple.com/nl/podcast/screaming-in-the-cloud/id1361244178)
+* [Syntax — Tasty Web Development Treats](https://podcasts.apple.com/nl/podcast/syntax-tasty-web-development-treats/id1253186678)
 
 [↑ back to top](#contents)
 
