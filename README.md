@@ -76,7 +76,6 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [Crunchbase](https://www.crunchbase.com/#/home/index)
 * [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html)
 * [Product Hunt](http://www.producthunt.com/)
-* [Programmable Web](https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18)
 * [TechCrunch](https://techcrunch.com/)
 * [The Changelog](https://changelog.com/news/submit)
 * [Venture Beat](https://venturebeat.com/)
