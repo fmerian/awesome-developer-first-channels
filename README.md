@@ -12,10 +12,13 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 ## GitHub repositories
 
-* [agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first)
-* [opencompany/awesome-open-company](https://github.com/opencompany/awesome-open-company)
-* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-* [runacapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
+* [awesome-developer-first](https://github.com/agamm/awesome-developer-first)
+* [awesome-open-company](https://github.com/opencompany/awesome-open-company)
+* [awesome-oss](https://github.com/sereneblue/awesome-oss)
+* [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
+* [awesome-oss-devsec](https://github.com/boxyhq/awesome-oss-devsec)
+* [awesome-oss-saas](https://github.com/vihar/awesome-oss-saas)
+* [free-for-dev](https://github.com/ripienaar/free-for-dev)
 
 [↑ back to top](#contents)
 
