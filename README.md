@@ -14,10 +14,10 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 * [awesome-developer-first](https://github.com/agamm/awesome-developer-first)
 * [awesome-open-company](https://github.com/opencompany/awesome-open-company)
-* [awesome-oss](https://github.com/sereneblue/awesome-oss)
-* [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
-* [awesome-oss-devsec](https://github.com/boxyhq/awesome-oss-devsec)
-* [awesome-oss-saas](https://github.com/vihar/awesome-oss-saas)
+* [awesome-oss](https://github.com/sereneblue/awesome-oss) ![open-source](https://img.shields.io/badge/open--source-black)
+* [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) ![open-source](https://img.shields.io/badge/open--source-black)
+* [awesome-oss-devsec](https://github.com/boxyhq/awesome-oss-devsec) ![open-source](https://img.shields.io/badge/open--source-black)
+* [awesome-oss-saas](https://github.com/vihar/awesome-oss-saas) ![open-source](https://img.shields.io/badge/open--source-black)
 * [free-for-dev](https://github.com/ripienaar/free-for-dev)
 
 [↑ back to top](#contents)
@@ -57,7 +57,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [/r/netsec](https://www.reddit.com/r/netsec/)
 * [/r/netsecstudents](https://www.reddit.com/r/netsecstudents/)
 * [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
-* [/r/opensource](https://www.reddit.com/r/opensource/)
+* [/r/opensource](https://www.reddit.com/r/opensource/) ![open-source](https://img.shields.io/badge/open--source-black)
 * [/r/ProductHunters](https://www.reddit.com/r/ProductHunters/)
 * [/r/programming](https://www.reddit.com/r/programming/)
 * [/r/QualityAssurance](https://www.reddit.com/r/QualityAssurance/)
