@@ -41,7 +41,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 ## subreddits
 
-* [/r/AlphaandBetausers](https://www.reddit.com/r/alphaandbetausers/)
+* [/r/AlphaandBetausers](https://www.reddit.com/r/alphaandbetausers/) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [/r/api](https://www.reddit.com/r/api/)
 * [/r/bash](https://www.reddit.com/r/bash/)
 * [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/)
@@ -75,7 +75,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 ## websites
 
-* [BetaList](https://betalist.com/submit)
+* [BetaList](https://betalist.com/submit) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [Crunchbase](https://www.crunchbase.com/#/home/index)
 * [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html)
 * [Product Hunt](http://www.producthunt.com/)
