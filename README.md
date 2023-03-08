@@ -76,9 +76,18 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 ## websites
 
 * [BetaList](https://betalist.com/submit) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
+* [Beta Console](https://console.dev/betas/) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [Crunchbase](https://www.crunchbase.com/#/home/index)
+* [Daring Fireball](https://daringfireball.net/)
 * [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html)
+* [Indie Hackers](https://www.indiehackers.com/) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
+* [Open Source Alternative To](https://www.opensourcealternative.to/) ![open-source](https://img.shields.io/badge/open--source-black)
+* [Open-source Builders](https://opensource.builders/) ![open-source](https://img.shields.io/badge/open--source-black)
+* [Polywork](https://www.polywork.com/collaborate/5br4mb7s) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [Product Hunt](http://www.producthunt.com/)
+  * [awesome-developer-first](https://www.producthunt.com/@fmerian/collections/awesome-developer-first)
+  * [awesome-oss-companies](https://www.producthunt.com/@fmerian/collections/awesome-oss-companies) ![open-source](https://img.shields.io/badge/open--source-black)
+* [Sifted](https://sifted.eu/)
 * [TechCrunch](https://techcrunch.com/)
 * [The Changelog](https://changelog.com/news/submit)
 * [Venture Beat](https://venturebeat.com/)
