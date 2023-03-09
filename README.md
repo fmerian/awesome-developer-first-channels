@@ -12,12 +12,15 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 ## GitHub repositories
 
+* [awesome-developer-experience](https://github.com/prokopsimek/awesome-developer-experience#-tools)
 * [awesome-developer-first](https://github.com/agamm/awesome-developer-first)
+* [awesome-foss-apps](https://github.com/DataDaoDe/awesome-foss-apps) ![open-source](https://img.shields.io/badge/open--source-black)
 * [awesome-open-company](https://github.com/opencompany/awesome-open-company)
 * [awesome-oss](https://github.com/sereneblue/awesome-oss) ![open-source](https://img.shields.io/badge/open--source-black)
 * [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) ![open-source](https://img.shields.io/badge/open--source-black)
 * [awesome-oss-devsec](https://github.com/boxyhq/awesome-oss-devsec) ![open-source](https://img.shields.io/badge/open--source-black)
 * [awesome-oss-saas](https://github.com/vihar/awesome-oss-saas) ![open-source](https://img.shields.io/badge/open--source-black)
+* [foss-for-dev](https://github.com/tvvocold/FOSS-for-Dev) ![open-source](https://img.shields.io/badge/open--source-black)
 * [free-for-dev](https://github.com/ripienaar/free-for-dev)
 
 [↑ back to top](#contents)
