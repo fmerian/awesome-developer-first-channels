@@ -84,7 +84,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [Open Source Alternative To](https://www.opensourcealternative.to/) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Open-source Builders](https://opensource.builders/) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Polywork](https://www.polywork.com/collaborate/5br4mb7s) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
-* [Product Hunt](http://www.producthunt.com/)
+* [Product Hunt](https://www.producthunt.com/posts/new)
   * [awesome-developer-first](https://www.producthunt.com/@fmerian/collections/awesome-developer-first)
   * [awesome-oss-companies](https://www.producthunt.com/@fmerian/collections/awesome-oss-companies) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Sifted](https://sifted.eu/)
