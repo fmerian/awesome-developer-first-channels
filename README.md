@@ -52,6 +52,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [/r/cybersecurity](https://www.reddit.com/r/cybersecurity/)
 * [/r/devops](https://www.reddit.com/r/devops/)
 * [/r/Entrepreneur](http://reddit.com/r/entrepreneur)
+* [/r/EntrepreneurRideAlong/](https://www.reddit.com/r/EntrepreneurRideAlong/)
 * [/r/github](https://www.reddit.com/r/github/)
 * [/r/golang](https://www.reddit.com/r/golang/)
 * [/r/hacking](https://www.reddit.com/r/hacking/)
