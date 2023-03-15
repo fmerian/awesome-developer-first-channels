@@ -79,6 +79,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 ## websites
 
+* [Airport](https://airport.community/submit/) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [BetaList](https://betalist.com/submit) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [Beta Console](https://console.dev/betas/) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [Crunchbase](https://www.crunchbase.com/#/home/index)
