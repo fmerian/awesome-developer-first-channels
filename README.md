@@ -29,7 +29,10 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 ## Medium publications
 
 * [Better Programming](https://betterprogramming.pub/write-for-us-5c4bcba59397)
+* [codeburst](https://codeburst.io/how-to-write-for-codeburst-io-63fec4bf111c)
 * [CodeX](https://medium.com/codex/write-to-codex-428b6d509452)
+* [The Startup](https://medium.com/swlh/start-it-up-submissions-3e8ed27bcd3e)
+* [Towards Data Science](https://towardsdatascience.com/questions-96667b06af5)
 
 [↑ back to top](#contents)
 
