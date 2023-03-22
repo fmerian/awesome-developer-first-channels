@@ -88,6 +88,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [Beta Console](https://console.dev/betas/) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [Crunchbase](https://www.crunchbase.com/#/home/index)
 * [Daring Fireball](https://daringfireball.net/)
+* [DEV Community](https://dev.to/listings/products)
 * [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html)
 * [Indie Hackers](https://www.indiehackers.com/) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [iOS Dev Tools](https://iosdev.tools/categories)
