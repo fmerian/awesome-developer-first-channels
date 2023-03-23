@@ -90,6 +90,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [Crunchbase](https://www.crunchbase.com/#/home/index)
 * [Daring Fireball](https://daringfireball.net/)
 * [DEV Community](https://dev.to/listings/products)
+* [DZone](https://dzone.com/articles/dzones-article-submission-guidelines)
 * [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html)
 * [Indie Hackers](https://www.indiehackers.com/) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [iOS Dev Tools](https://iosdev.tools/categories)
