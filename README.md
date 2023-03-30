@@ -16,6 +16,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [awesome-developer-first](https://github.com/agamm/awesome-developer-first)
 * [awesome-devops](https://github.com/joubertredrat/awesome-devops)
 * [awesome-devtools](https://github.com/moimikey/awesome-devtools)
+* [awesome-dx](https://github.com/workos/awesome-developer-experience)
 * [awesome-foss-apps](https://github.com/DataDaoDe/awesome-foss-apps) ![open-source](https://img.shields.io/badge/open--source-black)
 * [awesome-open-company](https://github.com/opencompany/awesome-open-company)
 * [awesome-oss](https://github.com/sereneblue/awesome-oss) ![open-source](https://img.shields.io/badge/open--source-black)
