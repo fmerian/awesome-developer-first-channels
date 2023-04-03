@@ -10,6 +10,8 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [reddit](#subreddits)
 * [websites](#websites)
 
+---
+
 ## GitHub repositories
 
 * [awesome-developer-experience](https://github.com/prokopsimek/awesome-developer-experience#-tools)
@@ -109,6 +111,12 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
   * [Software Recommandations Stack Exchange](https://softwarerecs.stackexchange.com/)
 * [TechCrunch](https://techcrunch.com/)
 * [The Changelog](https://changelog.com/news/submit)
-* [Venture Beat](https://venturebeat.com/)
+* [VentureBeat](https://venturebeat.com/)
 
 [↑ back to top](#contents)
+
+---
+
+## contributing
+
+See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-developer-first-directories/blob/main/CONTRIBUTING.md)
