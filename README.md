@@ -45,11 +45,12 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 ## podcasts
 
-* [Command Line Heroes](https://podcasts.apple.com/nl/podcast/command-line-heroes/id1319947289)
-* [Frond End Happy Hour](https://podcasts.apple.com/nl/podcast/front-end-happy-hour/id1089047924)
-* [North meets South](https://podcasts.apple.com/nl/podcast/north-meets-south-web-podcast/id1123508667)
-* [Screaming in the Cloud](https://podcasts.apple.com/nl/podcast/screaming-in-the-cloud/id1361244178)
-* [Syntax — Tasty Web Development Treats](https://podcasts.apple.com/nl/podcast/syntax-tasty-web-development-treats/id1253186678)
+* [Command Line Heroes](https://podcasts.apple.com/en/podcast/command-line-heroes/id1319947289)
+* [Frond End Happy Hour](https://podcasts.apple.com/en/podcast/front-end-happy-hour/id1089047924)
+* [North meets South](https://podcasts.apple.com/en/podcast/north-meets-south-web-podcast/id1123508667)
+* [Open Source Startup](https://open.spotify.com/show/69cAXLsHmwztInIhAeyOqJ?si=iQNmUnIoTh-k0SrqV0nOgQ) ![open-source](https://img.shields.io/badge/open--source-black)
+* [Screaming in the Cloud](https://podcasts.apple.com/en/podcast/screaming-in-the-cloud/id1361244178)
+* [Syntax — Tasty Web Development Treats](https://podcasts.apple.com/en/podcast/syntax-tasty-web-development-treats/id1253186678)
 
 [↑ back to top](#contents)
 
