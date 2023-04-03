@@ -8,6 +8,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [medium](#medium-publications)
 * [podcasts](#podcasts)
 * [reddit](#subreddits)
+* [slack](#slack-communities)
 * [websites](#websites)
 
 ---
@@ -84,6 +85,12 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [/r/startups](http://reddit.com/r/startups)
 * [/r/technology](https://www.reddit.com/r/technology/)
 * [/r/webdev](https://www.reddit.com/r/webdev/)
+
+[↑ back to top](#contents)
+
+## Slack communities
+
+* [APIs You Won't Hate](https://apisyouwonthate.com/community/)
 
 [↑ back to top](#contents)
 
