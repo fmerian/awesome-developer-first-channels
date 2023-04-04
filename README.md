@@ -13,7 +13,9 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 ---
 
-## GitHub repositories
+## GitHub 
+
+### repositories
 
 * [awesome-developer-experience](https://github.com/prokopsimek/awesome-developer-experience#-tools)
 * [awesome-developer-first](https://github.com/agamm/awesome-developer-first)
@@ -29,6 +31,12 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [foss-for-dev](https://github.com/tvvocold/FOSS-for-Dev) ![open-source](https://img.shields.io/badge/open--source-black)
 * [find-oss](https://github.com/SimoMay/find-oss) ![open-source](https://img.shields.io/badge/open--source-black)
 * [free-for-dev](https://github.com/ripienaar/free-for-dev)
+
+### collections
+
+* [DevOps tools](https://github.com/collections/devops-tools)
+* [Software development tools](https://github.com/collections/software-development-tools)
+* [Software productivity tools](https://github.com/collections/productivity-tools)
 
 [↑ back to top](#contents)
 
