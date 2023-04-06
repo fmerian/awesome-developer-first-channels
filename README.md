@@ -123,6 +123,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
   * [awesome-developer-first](https://www.producthunt.com/@fmerian/collections/awesome-developer-first)
   * [awesome-oss-companies](https://www.producthunt.com/@fmerian/collections/awesome-oss-companies) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Sifted](https://sifted.eu/) (80)
+* [Speaker Deck](https://speakerdeck.com/) (89)
 * [Stack Overflow](https://stackoverflow.com/)
   * [Open Source Stack Exchange](https://opensource.stackexchange.com/) ![open-source](https://img.shields.io/badge/open--source-black)
   * [Software Recommandations Stack Exchange](https://softwarerecs.stackexchange.com/)
