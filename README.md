@@ -114,6 +114,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [DEV Community](https://dev.to/listings/products) (89)
 * [DZone](https://dzone.com/articles/dzones-article-submission-guidelines)
 * [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html)
+* [Hashnode](https://hashnode.com/) (84)
 * [Indie Hackers](https://www.indiehackers.com/) (79) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [iOS Dev Tools](https://iosdev.tools/categories)
 * [Open Source Alternative To](https://www.opensourcealternative.to/add-project) ![open-source](https://img.shields.io/badge/open--source-black)
