@@ -100,11 +100,18 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 ## Slack communities
 
 * [APIs You Won't Hate](https://apisyouwonthate.com/community/)
+* [Changelog Developer Community](https://changelog.com/community)
+
+### more ↓
+
+* [awesome-slack](https://github.com/filipelinhares/awesome-slack)
+* [awesome-slack-communities](https://github.com/radermacher/awesome-slack-communities)
 
 [↑ back to top](#contents)
 
 ## websites
-*including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-authority-checker).*
+
+including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-authority-checker).
 
 * [Airport](https://airport.community/submit/) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [BetaList](https://betalist.com/submit) (72) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
