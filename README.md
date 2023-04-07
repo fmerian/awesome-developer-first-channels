@@ -4,7 +4,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 ## contents
 
-* [github](#github-repositories)
+* [github](#github)
 * [medium](#medium-publications)
 * [podcasts](#podcasts)
 * [reddit](#subreddits)
@@ -102,6 +102,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 * [APIs You Won't Hate](https://apisyouwonthate.com/community/)
 * [Changelog Developer Community](https://changelog.com/community)
+* [DevOpsChat](https://devopschat.co/)
 
 ### more ↓
 
