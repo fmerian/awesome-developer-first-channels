@@ -59,6 +59,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [North meets South](https://podcasts.apple.com/en/podcast/north-meets-south-web-podcast/id1123508667)
 * [Open Source Startup](https://open.spotify.com/show/69cAXLsHmwztInIhAeyOqJ?si=iQNmUnIoTh-k0SrqV0nOgQ) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Screaming in the Cloud](https://podcasts.apple.com/en/podcast/screaming-in-the-cloud/id1361244178)
+* [Software Daily](https://open.spotify.com/show/6UCtBYL29hwhw4YbTdX83N)
 * [Syntax — Tasty Web Development Treats](https://podcasts.apple.com/en/podcast/syntax-tasty-web-development-treats/id1253186678)
 
 [↑ back to top](#contents)
