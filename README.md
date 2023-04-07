@@ -130,6 +130,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
   * [Software Recommandations Stack Exchange](https://softwarerecs.stackexchange.com/)
 * [TechCrunch](https://techcrunch.com/) (92)
 * [The Changelog](https://changelog.com/news/submit) (77)
+* [The Verge](https://www.theverge.com/) (91)
 * [VentureBeat](https://venturebeat.com/) (91)
 
 [↑ back to top](#contents)
