@@ -138,6 +138,7 @@ including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [TechCrunch](https://techcrunch.com/) (92)
 * [The Changelog](https://changelog.com/news/submit) (77)
 * [The Verge](https://www.theverge.com/) (91)
+* [Unzip.dev](https://unzip.dev/)
 * [VentureBeat](https://venturebeat.com/) (91)
 
 [↑ back to top](#contents)
