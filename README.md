@@ -6,6 +6,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 * [github](#github)
 * [medium](#medium-publications)
+* [newsletters](#newsletters)
 * [podcasts](#podcasts)
 * [reddit](#subreddits)
 * [slack](#slack-communities)
@@ -49,6 +50,18 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [In Plain English](https://javascript.plainenglish.io/https-medium-com-javascript-in-plain-english-join-our-team-b0854ead7d14)
 * [The Startup](https://medium.com/swlh/start-it-up-submissions-3e8ed27bcd3e)
 * [Towards Data Science](https://towardsdatascience.com/questions-96667b06af5)
+
+[↑ back to top](#contents)
+
+## newsletters
+
+* [Console](https://console.dev/)
+* [iOS Dev Tools](https://iosdev.tools/categories)
+* [Unzip](https://unzip.dev/)
+
+### more ↓
+
+* [developer-newsletters](https://github.com/jackbridger/developer-newsletters)
 
 [↑ back to top](#contents)
 
@@ -126,7 +139,6 @@ including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html)
 * [Hashnode](https://hashnode.com/) (84)
 * [Indie Hackers](https://www.indiehackers.com/) (79) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
-* [iOS Dev Tools](https://iosdev.tools/categories)
 * [Open Source Alternative To](https://www.opensourcealternative.to/add-project) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Open Source Builders](https://opensource.builders/requests) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Polywork](https://www.polywork.com/collaborate/5br4mb7s) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
@@ -142,7 +154,6 @@ including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [TechCrunch](https://techcrunch.com/) (92)
 * [The Changelog](https://changelog.com/news/submit) (77)
 * [The Verge](https://www.theverge.com/) (91)
-* [Unzip.dev](https://unzip.dev/)
 * [VentureBeat](https://venturebeat.com/) (91)
 
 [↑ back to top](#contents)
