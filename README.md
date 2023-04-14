@@ -67,13 +67,13 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 ## podcasts
 
-* [Command Line Heroes](https://podcasts.apple.com/en/podcast/command-line-heroes/id1319947289)
-* [Frond End Happy Hour](https://podcasts.apple.com/en/podcast/front-end-happy-hour/id1089047924)
-* [North meets South](https://podcasts.apple.com/en/podcast/north-meets-south-web-podcast/id1123508667)
+* [Command Line Heroes](https://open.spotify.com/show/4Jgtgr4mHXNDyLldHkfEMz?si=f101a5d4ca504ec6)
+* [Front End Happy Hour](https://open.spotify.com/show/0Giuw6eNbTzP9CDZODDrA2?si=8bfc98d071534f16)
+* [North meets South](https://open.spotify.com/show/5mnNzOSHkH8FUqi3eVhjoF?si=5b078c91b0884b25)
 * [Open Source Startup](https://open.spotify.com/show/69cAXLsHmwztInIhAeyOqJ?si=iQNmUnIoTh-k0SrqV0nOgQ) ![open-source](https://img.shields.io/badge/open--source-black)
-* [Screaming in the Cloud](https://podcasts.apple.com/en/podcast/screaming-in-the-cloud/id1361244178)
+* [Screaming in the Cloud](https://open.spotify.com/show/3fBA9eNkGliCzp3Xuy1GVd?si=12faaf4b632945d3)
 * [Software Daily](https://open.spotify.com/show/6UCtBYL29hwhw4YbTdX83N)
-* [Syntax — Tasty Web Development Treats](https://podcasts.apple.com/en/podcast/syntax-tasty-web-development-treats/id1253186678)
+* [Syntax — Tasty Web Development Treats](https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby?si=2b4e7f992c274e00)
 
 [↑ back to top](#contents)
 
