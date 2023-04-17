@@ -61,6 +61,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 ### more ↓
 
+* [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters)
 * [developer-newsletters](https://github.com/jackbridger/developer-newsletters)
 
 [↑ back to top](#contents)
