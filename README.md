@@ -156,6 +156,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
   * [Software Recommandations Stack Exchange](https://softwarerecs.stackexchange.com/)
 * [TechCrunch](https://techcrunch.com/) (92)
 * [The Changelog](https://changelog.com/news/submit) (77)
+* [The New Stack](https://thenewstack.io/contributions/) (82)
 * [The Verge](https://www.theverge.com/) (91)
 * [VentureBeat](https://venturebeat.com/) (91)
 
