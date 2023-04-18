@@ -1,4 +1,4 @@
-# awesome-developer-first-directories
+# awesome-developer-first-channels
 
 Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmccaff](https://github.com/mmccaff/PlacesToPostYourStartup), this repository is a non-exhaustive list of awesome places **for developer-first products.**
 
@@ -128,7 +128,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 ## websites
 
-including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-authority-checker).
+Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-authority-checker).
 
 * [Airport](https://airport.community/submit/) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [BetaList](https://betalist.com/submit) (72) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
@@ -138,6 +138,7 @@ including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [DEV Community](https://dev.to/listings/products) (89)
 * [DZone](https://dzone.com/articles/dzones-article-submission-guidelines) (85)
 * [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (90)
+* [Hackernoon](https://hackernoon.com) (87)
 * [Hashnode](https://hashnode.com/) (84)
 * [Indie Hackers](https://www.indiehackers.com/) (79) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [Open Source Alternative To](https://www.opensourcealternative.to/add-project) ![open-source](https://img.shields.io/badge/open--source-black)
