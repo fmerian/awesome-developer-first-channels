@@ -33,6 +33,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [foss-for-dev](https://github.com/tvvocold/FOSS-for-Dev) ![open-source](https://img.shields.io/badge/open--source-black)
 * [find-oss](https://github.com/SimoMay/find-oss) ![open-source](https://img.shields.io/badge/open--source-black)
 * [free-for-dev](https://github.com/ripienaar/free-for-dev)
+* [usage-based-pricing](https://github.com/appsmithorg/usage-based-pricing)
 
 ### collections
 
