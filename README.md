@@ -135,6 +135,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [Airport](https://airport.community/submit/) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [BetaList](https://betalist.com/submit) (72) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [Beta Console](https://console.dev/betas/) (40) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
+* [CodeProject](https://www.codeproject.com/script/Articles/Submit.aspx) (84)
 * [Crunchbase](https://www.crunchbase.com/#/home/index) (90)
 * [Daring Fireball](https://daringfireball.net/) (88)
 * [DEV Community](https://dev.to/listings/products) (89)
