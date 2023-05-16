@@ -139,6 +139,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [Crunchbase](https://www.crunchbase.com/#/home/index) (90)
 * [Daring Fireball](https://daringfireball.net/) (88)
 * [DEV Community](https://dev.to/listings/products) (89)
+* [DevOps](https://devops.com/blogger-request-form/) (79)
 * [DZone](https://dzone.com/articles/dzones-article-submission-guidelines) (85)
 * [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (90)
 * [Hackernoon](https://hackernoon.com) (87)
