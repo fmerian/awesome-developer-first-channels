@@ -118,6 +118,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 * [APIs You Won't Hate](https://apisyouwonthate.com/community/)
 * [Changelog Developer Community](https://changelog.com/community)
+* [CNCF](https://communityinviter.com/apps/cloud-native/cncf) ![open-source](https://img.shields.io/badge/open--source-black)
 * [DevOpsChat](https://devopschat.co/)
 * [MLOps](https://mlops.community/slack/)
 
