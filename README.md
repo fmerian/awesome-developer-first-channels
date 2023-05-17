@@ -120,6 +120,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [Changelog Developer Community](https://changelog.com/community)
 * [CNCF](https://communityinviter.com/apps/cloud-native/cncf) ![open-source](https://img.shields.io/badge/open--source-black)
 * [DataTalks.Club](https://datatalks.club/slack)
+* [Developer Marketing](https://marketingto.dev/)
 * [DevOpsChat](https://devopschat.co/)
 * [MLOps](https://mlops.community/slack/)
 
