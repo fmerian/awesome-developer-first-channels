@@ -155,6 +155,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [Product Hunt](https://www.producthunt.com/posts/new) (90)
   * [awesome-developer-first](https://www.producthunt.com/@fmerian/collections/awesome-developer-first)
   * [awesome-oss-companies](https://www.producthunt.com/@fmerian/collections/awesome-oss-companies) ![open-source](https://img.shields.io/badge/open--source-black)
+* [Security Boulevard](https://securityboulevard.com/write-for-security-boulevard/) (82)
 * [Sifted](https://sifted.eu/) (80)
 * [Smashing Magazine](https://www.smashingmagazine.com/write-for-us/) (90)
 * [Speaker Deck](https://speakerdeck.com/) (89)
