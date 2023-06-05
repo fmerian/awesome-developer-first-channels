@@ -88,6 +88,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/)
 * [/r/commandline](https://www.reddit.com/r/commandline/)
 * [/r/cybersecurity](https://www.reddit.com/r/cybersecurity/)
+* [/r/dataengineering/](https://www.reddit.com/r/dataengineering/)
 * [/r/devops](https://www.reddit.com/r/devops/)
 * [/r/Entrepreneur](http://reddit.com/r/entrepreneur)
 * [/r/EntrepreneurRideAlong/](https://www.reddit.com/r/EntrepreneurRideAlong/)
