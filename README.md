@@ -152,6 +152,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [Hashnode](https://hashnode.com/) (84)
 * [Indie Hackers](https://www.indiehackers.com/) (79) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [InfoQ](https://www.infoq.com/write-for-infoq/) (86)
+* [Nordic APIs](https://nordicapis.com/create-with-us/) (74)
 * [Open Source Alternative To](https://www.opensourcealternative.to/add-project) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Open Source Builders](https://opensource.builders/requests) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Open Source Marketplace](https://atlas.scoutflo.com/) ![open-source](https://img.shields.io/badge/open--source-black)
