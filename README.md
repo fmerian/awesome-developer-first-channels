@@ -137,31 +137,36 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-authority-checker).
 
+### directories
+
 * [Airport](https://airport.community/submit/) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [BetaList](https://betalist.com/submit) (72) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [Beta Console](https://console.dev/betas/) (40) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
-* [CodeProject](https://www.codeproject.com/script/Articles/Submit.aspx) (84)
 * [Crunchbase](https://www.crunchbase.com/#/home/index) (90)
+* [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (90)
+* [Open Source Alternative To](https://www.opensourcealternative.to/add-project) ![open-source](https://img.shields.io/badge/open--source-black)
+* [Open Source Builders](https://opensource.builders/requests) ![open-source](https://img.shields.io/badge/open--source-black)
+* [Open Source Marketplace](https://atlas.scoutflo.com/) ![open-source](https://img.shields.io/badge/open--source-black)
+* [Product Hunt](https://www.producthunt.com/posts/new) (90)
+  * [awesome-developer-first](https://www.producthunt.com/@fmerian/collections/awesome-developer-first)
+  * [awesome-oss-companies](https://www.producthunt.com/@fmerian/collections/5-better-open-source-alternatives) ![open-source](https://img.shields.io/badge/open--source-black)
+* [Restack](https://www.restack.io/apply) ![open-source](https://img.shields.io/badge/open--source-black)
+
+### publications
+
+* [CodeProject](https://www.codeproject.com/script/Articles/Submit.aspx) (84)
 * [Daring Fireball](https://daringfireball.net/) (88)
 * [DEV Community](https://dev.to/listings/products) (89)
 * [DevOps](https://devops.com/blogger-request-form/) (79)
 * [devSwag](https://devswag.io/)
 * [DZone](https://dzone.com/articles/dzones-article-submission-guidelines) (85)
-* [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (90)
 * [Hackernoon](https://hackernoon.com) (87)
 * [Hashnode](https://hashnode.com/) (84)
 * [Indie Hackers](https://www.indiehackers.com/) (79) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [InfoQ](https://www.infoq.com/write-for-infoq/) (86)
 * [Nordic APIs](https://nordicapis.com/create-with-us/) (74)
-* [Open Source Alternative To](https://www.opensourcealternative.to/add-project) ![open-source](https://img.shields.io/badge/open--source-black)
-* [Open Source Builders](https://opensource.builders/requests) ![open-source](https://img.shields.io/badge/open--source-black)
-* [Open Source Marketplace](https://atlas.scoutflo.com/) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Opensource.com](https://opensource.com/writers) (84) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Polywork](https://www.polywork.com/collaborate/5br4mb7s) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
-* [Product Hunt](https://www.producthunt.com/posts/new) (90)
-  * [awesome-developer-first](https://www.producthunt.com/@fmerian/collections/awesome-developer-first)
-  * [awesome-oss-companies](https://www.producthunt.com/@fmerian/collections/5-better-open-source-alternatives) ![open-source](https://img.shields.io/badge/open--source-black)
-* [Restack](https://www.restack.io/apply) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Security Boulevard](https://securityboulevard.com/write-for-security-boulevard/) (82)
 * [Sifted](https://sifted.eu/) (80)
 * [Smashing Magazine](https://www.smashingmagazine.com/write-for-us/) (90)
