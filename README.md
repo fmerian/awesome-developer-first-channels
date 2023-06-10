@@ -92,6 +92,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [/r/devops](https://www.reddit.com/r/devops/)
 * [/r/Entrepreneur](http://reddit.com/r/entrepreneur)
 * [/r/EntrepreneurRideAlong/](https://www.reddit.com/r/EntrepreneurRideAlong/)
+* [/r/ExperiencedDevs](https://www.reddit.com/r/ExperiencedDevs/)
 * [/r/github](https://www.reddit.com/r/github/)
 * [/r/golang](https://www.reddit.com/r/golang/)
 * [/r/hacking](https://www.reddit.com/r/hacking/)
