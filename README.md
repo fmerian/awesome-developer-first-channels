@@ -161,6 +161,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [DEV Community](https://dev.to/listings/products) (89)
 * [DevOps](https://devops.com/blogger-request-form/) (79)
 * [devSwag](https://devswag.io/)
+* [DX Tips](https://dx.tips/write-for-us)
 * [DZone](https://dzone.com/articles/dzones-article-submission-guidelines) (85)
 * [Hackernoon](https://hackernoon.com) (87)
 * [Hashnode](https://hashnode.com/) (84)
