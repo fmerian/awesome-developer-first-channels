@@ -160,6 +160,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 
 * [CodeProject](https://www.codeproject.com/script/Articles/Submit.aspx) (84)
 * [Daring Fireball](https://daringfireball.net/) (88)
+* [Datanami](https://www.datanami.com/about/#writeforus) (77) 
 * [DEV Community](https://dev.to/listings/products) (89)
 * [DevOps](https://devops.com/blogger-request-form/) (79)
 * [devSwag](https://devswag.io/)
