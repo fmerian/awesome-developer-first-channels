@@ -173,6 +173,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [Nordic APIs](https://nordicapis.com/create-with-us/) (74)
 * [Opensource.com](https://opensource.com/writers) (84) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Polywork](https://www.polywork.com/collaborate/5br4mb7s) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
+* [RTInsights](https://www.rtinsights.com/write-for-us/) (72)
 * [Security Boulevard](https://securityboulevard.com/write-for-security-boulevard/) (82)
 * [Sifted](https://sifted.eu/) (80)
 * [Smashing Magazine](https://www.smashingmagazine.com/write-for-us/) (90)
