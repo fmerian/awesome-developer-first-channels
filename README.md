@@ -107,7 +107,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [/r/programming](https://www.reddit.com/r/programming/)
 * [/r/QualityAssurance](https://www.reddit.com/r/QualityAssurance/)
 * [/r/ReverseEngineering](https://www.reddit.com/r/ReverseEngineering/)
-* [/r/selfhosted](https://www.reddit.com/r/selfhosted/)
+* [/r/selfhosted](https://www.reddit.com/r/selfhosted/) ![open-source](https://img.shields.io/badge/open--source-black)
 * [/r/software](https://www.reddit.com/r/software/)
 * [/r/sysadmin](https://www.reddit.com/r/sysadmin/)
 * [/r/softwaretesting](https://www.reddit.com/r/softwaretesting/)
