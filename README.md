@@ -145,6 +145,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [Airport](https://airport.community/submit/) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [BetaList](https://betalist.com/submit) (72) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [Beta Console](https://console.dev/betas/) (40) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
+* [Build your DXP](https://buildyourdxp.com/) (16)
 * [Crunchbase](https://www.crunchbase.com/#/home/index) (90)
 * [DevHunt](https://devhunt.org/) (25)
 * [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (90)
