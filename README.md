@@ -59,6 +59,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 ## newsletters
 
 * [Console](https://console.dev/)
+* [Cooperpress](https://cooperpress.com/)
 * [iOS Dev Tools](https://iosdev.tools/categories)
 * [Quastor](https://www.quastor.org/)
 * [Unzip](https://unzip.dev/)
