@@ -101,6 +101,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [/r/hacking](https://www.reddit.com/r/hacking/)
 * [/r/HowToHack](https://www.reddit.com/r/HowToHack/)
 * [/r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/)
+* [/r/kubernetes](https://www.reddit.com/r/kubernetes/)
 * [/r/netsec](https://www.reddit.com/r/netsec/)
 * [/r/netsecstudents](https://www.reddit.com/r/netsecstudents/)
 * [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
@@ -116,6 +117,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [/r/sre](https://www.reddit.com/r/sre/)
 * [/r/startups](http://reddit.com/r/startups)
 * [/r/technology](https://www.reddit.com/r/technology/)
+* [/r/terraform](https://www.reddit.com/r/terraform/)
 * [/r/webdev](https://www.reddit.com/r/webdev/)
 
 [↑ back to top](#contents)
