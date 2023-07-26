@@ -192,6 +192,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [The New Stack](https://thenewstack.io/contributions/) (82)
 * [The Verge](https://www.theverge.com/) (91)
 * [VentureBeat](https://venturebeat.com/) (91)
+* [XDA Developers](https://www.xda-developers.com/)
 
 [↑ back to top](#contents)
 
