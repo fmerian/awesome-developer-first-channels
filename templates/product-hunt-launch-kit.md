@@ -18,7 +18,7 @@
 
 ## name of the product
 
-> 40 characters max.
+> **40 characters max.** Simply the name of the product.
 
 ```
 
@@ -26,7 +26,7 @@
 
 ## tagline
 
-> 60 characters max. Tell what the product does. Avoid hyperbolic words and emojis.
+> **60 characters max.** Tell what the product does in a concise and descriptive tagline. Avoid hyperbolic words and emojis.
 
 ```
 
@@ -45,6 +45,8 @@
 
 ```
 
+- [ ] Is this an open source project?
+
 ### Twitter account of the product
 
 ```
@@ -53,7 +55,7 @@
 
 ## description
 
-> 260 characters max.
+> **260 characters max.** Supports basic HTML: `<strong>`, `<em>`, `<a>`, `<li>`.
 
 ```
 
@@ -61,9 +63,18 @@
 
 ## topics
 
-> Select up to three topics. [Browse full list here](https://www.producthunt.com/topics).
+> **Select up to three topics.** [Browse full list here](https://www.producthunt.com/topics).
 
 -   
+-
+-
+
+## categories
+
+> **Add up to three categories.** [Browse full list here](https://www.producthunt.com/categories). <br />
+> Your product's category should define what the product is, does or what specific problem it solves, rather than feature-related or technology tags.
+
+-
 -
 -
 
@@ -71,11 +82,11 @@
 
 ## thumbnail
 
-> Recommended size: 240x240px. JPG. PNG. GIF. Max size: 2MB.
+> **Recommended size: 240x240px.** JPG. PNG. GIF. Max size: 2MB.
 
 ## gallery
 
-> Recommended size: 1270x760px. Upload 3 or more images. <br />
+> **Recommended size: 1270x760px.** Upload 3 to 8 images. <br />
 > The first image is used as the social preview when your link is shared online.
 
 
@@ -85,6 +96,8 @@
 > If you do add a video, it will appear as the first item in the gallery.
 
 # makers
+
+> Who worked on this product? You’re free to add anyone who worked on the product with Product Hunt username of Twitter handles.
 
 ```
 
@@ -126,8 +139,8 @@
 
 ## comment
 
-> This comment is posted when your product launches. <br />
-> Adding a first comment is essential to get the discussion started.
+> This comment is posted when your product launches. Adding a first comment is essential to get the discussion started. <br />
+> Supports basic HTML: `<strong>`, `<em>`, `<a>`, `<li>`.
 
 ```
 Explain how you dicovered the product. Invite people to join the conversation, ask questions to the Makers.
