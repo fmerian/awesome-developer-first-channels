@@ -42,6 +42,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [DevOps tools](https://github.com/collections/devops-tools)
 * [Software development tools](https://github.com/collections/software-development-tools)
 * [Software productivity tools](https://github.com/collections/productivity-tools)
+* [Tools for Open Source](https://github.com/collections/tools-for-open-source)
 
 [↑ back to top](#contents)
 
