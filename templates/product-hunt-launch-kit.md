@@ -36,7 +36,7 @@
 
 ### links to the product
 
-> App Store, Google Play, Steam, Amazon…
+> GitHub repository, Chrome Web Store, Firefox Add-ons page…
 
 ```
 
@@ -45,9 +45,9 @@
 
 ```
 
-- [ ] Is this an open source project?
+- [ ] Is this an open-source project?
 
-### Twitter account of the product
+### Twitter / X account of the product
 
 ```
 @
@@ -66,15 +66,6 @@
 > **Select up to three topics.** [Browse full list here](https://www.producthunt.com/topics).
 
 -   
--
--
-
-## categories
-
-> **Add up to three categories.** [Browse full list here](https://www.producthunt.com/categories). <br />
-> Your product's category should define what the product is, does or what specific problem it solves, rather than feature-related or technology tags.
-
--
 -
 -
 
@@ -97,7 +88,7 @@
 
 # makers
 
-> Who worked on this product? You’re free to add anyone who worked on the product with Product Hunt username of Twitter handles.
+> Who worked on this product? You’re free to add anyone who worked on the product with Product Hunt username of Twitter / X handles.
 
 ```
 
