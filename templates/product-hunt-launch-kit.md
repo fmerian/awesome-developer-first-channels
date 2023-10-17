@@ -11,6 +11,12 @@ This file includes the required inputs to submit a new product on Product Hunt.
 - [extras](#extras)
 - [review and launch](#review-and-launch)
 
+## how to use this file
+
+1. Download or copy the raw file
+2. Import or paste it to your fav tool (Notion, Google Docs...)
+3. Fill out the required inputs. All set!
+
 # link to the product
 
 ```
