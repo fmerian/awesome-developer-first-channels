@@ -1,5 +1,7 @@
 # product-hunt-launch-kit
 
+This file includes the required inputs to submit a new product on Product Hunt.
+
 # contents
 
 - [link to the product](#link-to-the-product)
