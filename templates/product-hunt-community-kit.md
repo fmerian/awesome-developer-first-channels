@@ -1,4 +1,4 @@
-# product-hunt-fan-kit
+# product-hunt-community-kit
 
 ```
 TL,DR: we're launching soon on Product Hunt. Join the launch!
