@@ -154,7 +154,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [Beta Console](https://console.dev/betas/) (40) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [Build your DXP](https://buildyourdxp.com/) (16)
 * [Crunchbase](https://www.crunchbase.com/#/home/index) (90)
-* [DevHunt](https://devhunt.org/) (25)
+* [DevHunt](https://devhunt.org/) (40)
 * [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (90)
 * [LibHunt](https://www.libhunt.com/site/project_submit) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Open Source Alternative To](https://www.opensourcealternative.to/add-project) ![open-source](https://img.shields.io/badge/open--source-black)
