@@ -2,6 +2,12 @@
 
 This file includes the required inputs to submit a new product on Product Hunt.
 
+## how to use this file
+
+1. Download or copy the raw file
+2. Import or paste it to your fav tool (Notion, Google Docs...)
+3. Fill out the required inputs. All set!
+
 # contents
 
 - [link to the product](#link-to-the-product)
@@ -10,12 +16,6 @@ This file includes the required inputs to submit a new product on Product Hunt.
 - [makers](#makers)
 - [extras](#extras)
 - [review and launch](#review-and-launch)
-
-## how to use this file
-
-1. Download or copy the raw file
-2. Import or paste it to your fav tool (Notion, Google Docs...)
-3. Fill out the required inputs. All set!
 
 # link to the product
 
@@ -88,7 +88,6 @@ This file includes the required inputs to submit a new product on Product Hunt.
 > **Recommended size: 1270x760px.** Upload 3 to 8 images. <br />
 > The first image is used as the social preview when your link is shared online.
 
-
 ## YouTube video
 
 > Optional, but showing how the product works is helpful to convince people. <br />
@@ -118,7 +117,7 @@ This file includes the required inputs to submit a new product on Product Hunt.
 -   [ ] **Paid** - The product requires payment and there's no free option.
 -   [ ] **Paid (with a free trial or plan)** - The product requires payment and offers a free trial or version.
 
-## promote code
+## promo code
 
 > If you'd like to offer a promo code for the Product Hunt community, you can add it here. <br />
 > All fields must be completed to have a valid promo offer.
