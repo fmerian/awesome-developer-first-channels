@@ -2,6 +2,8 @@
 
 Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmccaff](https://github.com/mmccaff/PlacesToPostYourStartup), this repository is a non-exhaustive list of awesome places **for developer-first products.**
 
+[Want to contribute?](#contributing)
+
 ## contents
 
 * [github](#github)
@@ -203,4 +205,18 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 
 ## contributing
 
-See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-developer-first-directories/blob/main/CONTRIBUTING.md)
+I welcome every contribution. To do so, please [open a Pull Request (PR)](https://github.com/fmerian/awesome-developer-first-channels/pulls).
+
+I still do want to keep the quality of the list, so I may not merge all PRs.
+
+Some guidelines:
+
+- Add one link per PR
+  - Make sure the PR title is in the format of `Add resource-name`
+  - In your PR, please add the URL into the description
+- Add the link: `* [resource-name](https://example.com/)`
+- Check your spelling and grammar
+- Remove any trailing whitespace
+- Description and content must be in English
+
+Thank you for making this list more awesome! Enjoy!
