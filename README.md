@@ -32,6 +32,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) ![open-source](https://img.shields.io/badge/open--source-black)
 * [awesome-oss-devsec](https://github.com/boxyhq/awesome-oss-devsec) ![open-source](https://img.shields.io/badge/open--source-black)
 * [awesome-oss-saas](https://github.com/vihar/awesome-oss-saas) ![open-source](https://img.shields.io/badge/open--source-black)
+* [awesome-product-hunt](https://github.com/fmerian/awesome-product-hunt)
 * [awesome-side-project](https://github.com/maxprilutskiy/awesome-side-project)
 * [foss-for-dev](https://github.com/tvvocold/FOSS-for-Dev) ![open-source](https://img.shields.io/badge/open--source-black)
 * [find-oss](https://github.com/SimoMay/find-oss) ![open-source](https://img.shields.io/badge/open--source-black)
