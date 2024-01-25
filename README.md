@@ -159,6 +159,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [Build your DXP](https://buildyourdxp.com/) (16)
 * [Crunchbase](https://www.crunchbase.com/#/home/index) (90)
 * [DevHunt](https://devhunt.org/) (40)
+* [Future Tools](https://www.futuretools.io/submit-a-tool)
 * [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (90)
 * [launchweek.dev](https://launchweek.dev/)
 * [LibHunt](https://www.libhunt.com/site/project_submit) ![open-source](https://img.shields.io/badge/open--source-black)
@@ -172,6 +173,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [Restack](https://www.restack.io/apply) ![open-source](https://img.shields.io/badge/open--source-black)
 * [SaaSHub](https://www.saashub.com/submit)
 * [Scaling DevTools](https://scalingdevtools.com/tools.html)
+* [Uneed](https://www.uneed.best/submit-a-tool)
 
 ### publications
 
