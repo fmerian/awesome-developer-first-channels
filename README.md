@@ -171,6 +171,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
   * [awesome-oss-companies](https://www.producthunt.com/@fmerian/collections/5-better-open-source-alternatives) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Restack](https://www.restack.io/apply) ![open-source](https://img.shields.io/badge/open--source-black)
 * [SaaSHub](https://www.saashub.com/submit)
+* [Scaling DevTools](https://scalingdevtools.com/tools.html)
 
 ### publications
 
