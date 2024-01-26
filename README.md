@@ -173,6 +173,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [Restack](https://www.restack.io/apply) ![open-source](https://img.shields.io/badge/open--source-black)
 * [SaaSHub](https://www.saashub.com/submit)
 * [Scaling DevTools](https://scalingdevtools.com/tools.html)
+* [StackShare](https://stackshare.io/)
 * [Uneed](https://www.uneed.best/submit-a-tool)
 
 ### publications
