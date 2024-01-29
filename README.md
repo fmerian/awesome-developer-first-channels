@@ -70,6 +70,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [iOS Dev Tools](https://iosdev.tools/categories)
 * [Quastor](https://www.quastor.org/)
 * [Unzip](https://unzip.dev/)
+* [Real Python & PyCoder's Weekly](https://realpython.com/sponsorships/) ([sponsorship program and media kit](https://realpython.com/sponsorships/))
 
 ### more ↓
 
@@ -87,6 +88,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [Screaming in the Cloud](https://open.spotify.com/show/3fBA9eNkGliCzp3Xuy1GVd?si=12faaf4b632945d3)
 * [Software Daily](https://open.spotify.com/show/6UCtBYL29hwhw4YbTdX83N)
 * [Syntax — Tasty Web Development Treats](https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby?si=2b4e7f992c274e00)
+* [Real Python Podcast](https://realpython.com/podcasts/rpp/) ([sponsorship program and media kit](https://realpython.com/sponsorships/))
 
 [↑ back to top](#contents)
 
@@ -192,6 +194,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [InfoQ](https://www.infoq.com/write-for-infoq/) (86)
 * [Nordic APIs](https://nordicapis.com/create-with-us/) (74)
 * [Opensource.com](https://opensource.com/writers) (84) ![open-source](https://img.shields.io/badge/open--source-black)
+* [Real Python](https://realpython.com) ([sponsorship program and media kit](https://realpython.com/sponsorships/))
 * [RTInsights](https://www.rtinsights.com/write-for-us/) (72)
 * [Security Boulevard](https://securityboulevard.com/write-for-security-boulevard/) (82)
 * [Sifted](https://sifted.eu/) (80)
