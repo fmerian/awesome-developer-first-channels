@@ -69,8 +69,8 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [Cooperpress](https://cooperpress.com/)
 * [iOS Dev Tools](https://iosdev.tools/categories)
 * [Quastor](https://www.quastor.org/)
+* [Real Python](https://realpython.com/newsletter/)
 * [Unzip](https://unzip.dev/)
-* [Real Python & PyCoder's Weekly](https://realpython.com/sponsorships/) ([sponsorship program and media kit](https://realpython.com/sponsorships/))
 
 ### more ↓
 
@@ -85,10 +85,10 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [Front End Happy Hour](https://open.spotify.com/show/0Giuw6eNbTzP9CDZODDrA2?si=8bfc98d071534f16)
 * [North meets South](https://open.spotify.com/show/5mnNzOSHkH8FUqi3eVhjoF?si=5b078c91b0884b25)
 * [Open Source Startup](https://open.spotify.com/show/69cAXLsHmwztInIhAeyOqJ?si=iQNmUnIoTh-k0SrqV0nOgQ) ![open-source](https://img.shields.io/badge/open--source-black)
+* [Real Python](https://realpython.com/podcasts/rpp/)
 * [Screaming in the Cloud](https://open.spotify.com/show/3fBA9eNkGliCzp3Xuy1GVd?si=12faaf4b632945d3)
 * [Software Daily](https://open.spotify.com/show/6UCtBYL29hwhw4YbTdX83N)
 * [Syntax — Tasty Web Development Treats](https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby?si=2b4e7f992c274e00)
-* [Real Python Podcast](https://realpython.com/podcasts/rpp/) ([sponsorship program and media kit](https://realpython.com/sponsorships/))
 
 [↑ back to top](#contents)
 
