@@ -73,7 +73,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [Real Python](https://realpython.com/newsletter/)
 * [Unzip](https://unzip.dev/)
 
-### more ↓
+### more newsletters ↓
 
 * [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters)
 * [developer-newsletters](https://github.com/jackbridger/developer-newsletters)
@@ -90,6 +90,10 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [Screaming in the Cloud](https://open.spotify.com/show/3fBA9eNkGliCzp3Xuy1GVd?si=12faaf4b632945d3)
 * [Software Daily](https://open.spotify.com/show/6UCtBYL29hwhw4YbTdX83N)
 * [Syntax — Tasty Web Development Treats](https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby?si=2b4e7f992c274e00)
+
+### more podcasts ↓
+
+* [awesome-dev-podcasts](https://github.com/swyxio/awesome-dev-podcasts)
 
 [↑ back to top](#contents)
 
@@ -142,7 +146,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [DevOpsChat](https://devopschat.co/)
 * [MLOps](https://mlops.community/slack/)
 
-### more ↓
+### more communities ↓
 
 * [awesome-slack](https://github.com/filipelinhares/awesome-slack)
 * [awesome-slack-communities](https://github.com/radermacher/awesome-slack-communities)
