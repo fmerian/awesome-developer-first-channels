@@ -170,6 +170,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (90)
 * [launchweek.dev](https://launchweek.dev/)
 * [LibHunt](https://www.libhunt.com/site/project_submit) ![open-source](https://img.shields.io/badge/open--source-black)
+* [openalternative.co](https://openalternative.co/) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Open Source Alternative To](https://www.opensourcealternative.to/add-project) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Open Source Builders](https://opensource.builders/requests) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Open Source Marketplace](https://atlas.scoutflo.com/) ![open-source](https://img.shields.io/badge/open--source-black)
