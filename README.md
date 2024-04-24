@@ -175,6 +175,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [Open Source Builders](https://opensource.builders/requests) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Open Source Marketplace](https://atlas.scoutflo.com/) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Open Source Software](https://osssoftware.org/) ![open-source](https://img.shields.io/badge/open--source-black)
+* [oss.gallery](https://oss.gallery/) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Product Hunt](https://www.producthunt.com/posts/new) (90)
   * [awesome-developer-first](https://www.producthunt.com/@fmerian/collections/awesome-developer-first)
   * [awesome-oss-companies](https://www.producthunt.com/@fmerian/collections/5-better-open-source-alternatives) ![open-source](https://img.shields.io/badge/open--source-black)
