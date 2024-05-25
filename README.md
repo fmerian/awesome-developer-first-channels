@@ -148,6 +148,8 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 ### more communities ↓
 
+* [awesome-dev-discord](https://github.com/ljosberinn/awesome-dev-discord)
+* [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)
 * [awesome-slack](https://github.com/filipelinhares/awesome-slack)
 * [awesome-slack-communities](https://github.com/radermacher/awesome-slack-communities)
 
