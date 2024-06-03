@@ -145,6 +145,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [Developer Marketing](https://marketingto.dev/)
 * [DevOpsChat](https://devopschat.co/)
 * [MLOps](https://mlops.community/slack/)
+* [Write the Docs](https://www.writethedocs.org/slack/)
 
 ### more communities ↓
 
