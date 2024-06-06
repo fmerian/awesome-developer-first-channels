@@ -187,6 +187,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [SaaSHub](https://www.saashub.com/submit)
 * [Scaling DevTools](https://scalingdevtools.com/tools.html)
 * [StackShare](https://stackshare.io/)
+* [Stackradar](https://www.stackradar.co/submit-a-product)
 * [Uneed](https://www.uneed.best/submit-a-tool)
 
 ### publications
