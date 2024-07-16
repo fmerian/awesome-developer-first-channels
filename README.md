@@ -145,7 +145,10 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [DataTalks.Club](https://datatalks.club/slack)
 * [Developer Marketing](https://marketingto.dev/)
 * [DevOpsChat](https://devopschat.co/)
+* [LeadDev](https://leaddev.com/human-centered-technical-community)
 * [MLOps](https://mlops.community/slack/)
+* [Rands Leadership](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
+* [The Hangar](https://dx.community/)
 * [Write the Docs](https://www.writethedocs.org/slack/)
 
 ### more communities ↓
