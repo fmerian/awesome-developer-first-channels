@@ -84,6 +84,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 * [Command Line Heroes](https://open.spotify.com/show/4Jgtgr4mHXNDyLldHkfEMz?si=f101a5d4ca504ec6)
 * [Front End Happy Hour](https://open.spotify.com/show/0Giuw6eNbTzP9CDZODDrA2?si=8bfc98d071534f16)
+* [Modern CTO](https://moderncto.io/podcast/)
 * [North meets South](https://open.spotify.com/show/5mnNzOSHkH8FUqi3eVhjoF?si=5b078c91b0884b25)
 * [Open Source Startup](https://open.spotify.com/show/69cAXLsHmwztInIhAeyOqJ?si=iQNmUnIoTh-k0SrqV0nOgQ) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Real Python](https://realpython.com/podcasts/rpp/)
