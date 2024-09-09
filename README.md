@@ -168,6 +168,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 ### directories
 
 * [Airport](https://airport.community/submit/) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
+* [Awesome AI Directory](https://awesomeai.cc/) (28)
 * [Beautiful Open Source SaaS](https://oss.framer.website/) ![open-source](https://img.shields.io/badge/open--source-black)
 * [BetaList](https://betalist.com/submit) (73) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [Beta Console](https://console.dev/betas/) (54) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
