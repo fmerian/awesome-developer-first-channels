@@ -203,6 +203,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [Datanami](https://www.datanami.com/about/#writeforus) (77) 
 * [DEV Community](https://dev.to/listings/products) (89)
 * [DevOps](https://devops.com/blogger-request-form/) (79)
+* [DevTools Academy Blog](https://www.devtoolsacademy.com/blog)
 * [devSwag](https://devswag.io/)
 * [DX Tips](https://dx.tips/write-for-us)
 * [DZone](https://dzone.com/articles/dzones-article-submission-guidelines) (85)
