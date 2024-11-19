@@ -158,6 +158,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)
 * [awesome-slack](https://github.com/filipelinhares/awesome-slack)
 * [awesome-slack-communities](https://github.com/radermacher/awesome-slack-communities)
+* [elc.community](https://elc.community/)
 
 [↑ back to top](#contents)
 
