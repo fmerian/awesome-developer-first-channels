@@ -67,9 +67,13 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 ## newsletters
 
+* [TLDR](https://mktto.dev/tldr) [![sponsored](https://img.shields.io/badge/sponsored-black)](https://mktto.dev/tldr)
+* [BeansAndBytes](https://beansandbytes.substack.com/)
+* [Bytes](https://bytes.dev/)
 * [Console](https://console.dev/)
 * [Cooperpress](https://cooperpress.com/)
 * [iOS Dev Tools](https://iosdev.tools/categories)
+* [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/)
 * [Quastor](https://www.quastor.org/)
 * [Real Python](https://realpython.com/newsletter/)
 * [Unzip](https://unzip.dev/)
