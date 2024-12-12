@@ -73,6 +73,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [Console](https://console.dev/)
 * [Cooperpress](https://cooperpress.com/)
 * [iOS Dev Tools](https://iosdev.tools/categories)
+* [The Breakpoint by Product Hunt](https://dev.producthunt.com/)
 * [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/)
 * [Quastor](https://www.quastor.org/)
 * [Real Python](https://realpython.com/newsletter/)
