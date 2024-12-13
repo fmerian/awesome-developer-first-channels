@@ -12,6 +12,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [podcasts](#podcasts)
 * [reddit](#subreddits)
 * [slack](#slack-communities)
+* [twitter](#twitter)
 * [websites](#websites)
 
 ---
@@ -164,6 +165,23 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [awesome-slack](https://github.com/filipelinhares/awesome-slack)
 * [awesome-slack-communities](https://github.com/radermacher/awesome-slack-communities)
 * [elc.community](https://elc.community/)
+
+[↑ back to top](#contents)
+
+## twitter
+
+Ranked by # of community members. Full list [here](https://x.com/i/communities/top).
+
+* [Software Engineering](https://x.com/i/communities/1699807431709041070) (115.5K)
+* [Web Developers](https://x.com/i/communities/1488952693443997701) (66.9K)
+* [DevOps / SRE](https://x.com/i/communities/1523681883384549376) (17.4K)
+* [JavaScript Developers](https://x.com/i/communities/1456228270446288906) (15.9K)
+* [React](https://x.com/i/communities/1579498693752938496) (12.7K)
+* [React / NextJS Devs](https://x.com/i/communities/1502734040079687681) (10.6K)
+* [Next.js](https://x.com/i/communities/1488663855127535616) (9.6K)
+* [JavaScript](https://x.com/i/communities/1496602859370164321) (7.3K)
+* [ReactJS / NextJS / ReduxToolkit](https://x.com/i/communities/1516513787217592326) (5.9K)
+* [Open Source Software](https://x.com/i/communities/1498424846052638726) (5.3K) ![open-source](https://img.shields.io/badge/open--source-black)
 
 [↑ back to top](#contents)
 
