@@ -37,6 +37,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [awesome-product-hunt](https://github.com/fmerian/awesome-product-hunt)
 * [awesome-selfhosted-product](https://github.com/kiarafbickers/awesome-selfhosted-product) ![open-source](https://img.shields.io/badge/open--source-black)
 * [awesome-side-project](https://github.com/maxprilutskiy/awesome-side-project)
+* [ai-enablement-stack](https://github.com/daytonaio/ai-enablement-stack) 
 * [foss-for-dev](https://github.com/tvvocold/FOSS-for-Dev) ![open-source](https://img.shields.io/badge/open--source-black)
 * [find-oss](https://github.com/SimoMay/find-oss) ![open-source](https://img.shields.io/badge/open--source-black)
 * [free-for-dev](https://github.com/ripienaar/free-for-dev)
