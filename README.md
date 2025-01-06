@@ -199,6 +199,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [Beta Console](https://console.dev/betas/) (54) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [Build your DXP](https://buildyourdxp.com/) (16)
 * [Crunchbase](https://www.crunchbase.com/#/home/index) (90)
+* [Curations](https://www.curations.tech/?category=development)
 * [DevHunt](https://devhunt.org/) (54)
 * [Dev Pages](https://www.devpages.io/submit-a-tool) (27)
 * [early.tools](https://www.early.tools/submit) (26) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
