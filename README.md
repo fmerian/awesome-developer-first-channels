@@ -156,6 +156,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [LeadDev](https://leaddev.com/human-centered-technical-community)
 * [MLOps](https://mlops.community/slack/)
 * [Rands Leadership](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
+* [Software Crafters](http://slack.softwarecraftsmanship.org/)
 * [The Hangar](https://dx.community/)
 * [Write the Docs](https://www.writethedocs.org/slack/)
 
