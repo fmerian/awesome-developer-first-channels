@@ -92,6 +92,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 * [99 Dev Problems](https://hub.builtfor.dev/public/events)
 * [Command Line Heroes](https://open.spotify.com/show/4Jgtgr4mHXNDyLldHkfEMz?si=f101a5d4ca504ec6)
+* [Compressed FM](https://www.compressed.fm/)
 * [Front End Happy Hour](https://open.spotify.com/show/0Giuw6eNbTzP9CDZODDrA2?si=8bfc98d071534f16)
 * [Modern CTO](https://moderncto.io/podcast/)
 * [North meets South](https://open.spotify.com/show/5mnNzOSHkH8FUqi3eVhjoF?si=5b078c91b0884b25)
