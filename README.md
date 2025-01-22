@@ -112,6 +112,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 * [/r/AlphaandBetausers](https://www.reddit.com/r/alphaandbetausers/) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [/r/api](https://www.reddit.com/r/api/)
+* [/r/apidevelopment](https://www.reddit.com/r/apidevelopment/)
 * [/r/bash](https://www.reddit.com/r/bash/)
 * [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/)
 * [/r/commandline](https://www.reddit.com/r/commandline/)
