@@ -205,6 +205,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [Crunchbase](https://www.crunchbase.com/#/home/index) (90)
 * [Curations](https://www.curations.tech/?category=development)
 * [DevHunt](https://devhunt.org/) (54)
+* [Devlightful](https://devlightful.dev/) 
 * [early.tools](https://www.early.tools/submit) (26) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [Find Dev Tools](https://finddev.tools/submit)
 * [FreeStuffDev](https://freestuff.dev/submit)
