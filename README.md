@@ -62,6 +62,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [codeburst](https://codeburst.io/how-to-write-for-codeburst-io-63fec4bf111c)
 * [CodeX](https://medium.com/codex/write-to-codex-428b6d509452)
 * [In Plain English](https://javascript.plainenglish.io/https-medium-com-javascript-in-plain-english-join-our-team-b0854ead7d14)
+* [Overcast Cloud](https://overcast.blog/writing-and-reading-the-overcast-cloud-blog-09438166e49c)
 * [The Startup](https://medium.com/swlh/start-it-up-submissions-3e8ed27bcd3e)
 * [Towards Data Science](https://towardsdatascience.com/questions-96667b06af5)
 
