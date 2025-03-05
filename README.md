@@ -218,6 +218,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [Find Dev Tools](https://finddev.tools/submit)
 * [FreeStuffDev](https://freestuff.dev/submit)
 * [Future Tools](https://www.futuretools.io/submit-a-tool) (63)
+* [Futurepedia](https://www.futurepedia.io/submit-tool) (71) 
 * [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (90)
 * [launchweek.dev](https://launchweek.dev/home) (20)
 * [LibHunt](https://www.libhunt.com/site/project_submit) (69) ![open-source](https://img.shields.io/badge/open--source-black)
