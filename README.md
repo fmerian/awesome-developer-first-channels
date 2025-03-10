@@ -27,6 +27,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [awesome-devops](https://github.com/joubertredrat/awesome-devops)
 * [awesome-devtools](https://github.com/moimikey/awesome-devtools)
 * [awesome-dx](https://github.com/workos/awesome-developer-experience)
+* [awesome-ai-software-development-agents](https://github.com/flatlogic/awesome-ai-software-development-agents)
 * [awesome-foss-apps](https://github.com/DataDaoDe/awesome-foss-apps) ![open-source](https://img.shields.io/badge/open--source-black)
 * [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai)
 * [awesome-open-company](https://github.com/opencompany/awesome-open-company)
