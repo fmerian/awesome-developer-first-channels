@@ -205,6 +205,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 
 ### directories
 
+* [AI Tools Directory](https://www.whalesync.com/tools/ai-directory) (58)
 * [Airport](https://airport.community/submit/) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [Awesome AI Directory](https://awesomeai.cc/) (28)
 * [Beautiful Open Source SaaS](https://oss.framer.website/) ![open-source](https://img.shields.io/badge/open--source-black) (82)
