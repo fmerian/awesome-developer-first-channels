@@ -214,15 +214,15 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [Build your DXP](https://buildyourdxp.com/contribute) (16)
 * [Crunchbase](https://www.crunchbase.com/#/home/index) (90)
 * [Curations](https://www.curations.tech/?category=development)
-* [DevHunt](https://devhunt.org/) (54)
+* [DevHunt](https://devhunt.org/) (58)
 * [Devlightful](https://devlightful.dev/) 
-* [early.tools](https://www.early.tools/submit) (26) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
+* [early.tools](https://www.early.tools/submit) (24) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [Find Dev Tools](https://finddev.tools/submit)
 * [FreeStuffDev](https://freestuff.dev/submit)
 * [Future Tools](https://www.futuretools.io/submit-a-tool) (63)
 * [Futurepedia](https://www.futurepedia.io/submit-tool) (71) 
 * [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (90)
-* [launchweek.dev](https://launchweek.dev/home) (20)
+* [launchweek.dev](https://launchweek.dev/home) (29)
 * [LibHunt](https://www.libhunt.com/site/project_submit) (69) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Microlaunch](https://microlaunch.net) (43)
 * [openalternative.co](https://openalternative.co/) ![open-source](https://img.shields.io/badge/open--source-black) (40)
@@ -238,7 +238,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [StackShare](https://stackshare.io/)
 * [Stackradar](https://www.stackradar.co/submit-a-product)
 * [Tool Finder](https://toolfinder.co/submit-your-tool) (62)
-* [Uneed](https://www.uneed.best/submit-a-tool)
+* [Uneed](https://www.uneed.best/submit-a-tool?atp=fmerian) (67)
 
 ### publications
 
