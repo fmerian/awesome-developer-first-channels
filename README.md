@@ -238,6 +238,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [SaaSHub](https://www.saashub.com/submit)
 * [StackShare](https://stackshare.io/)
 * [Stackradar](https://www.stackradar.co/submit-a-product)
+* [TinyLaunch](https://www.tinylaun.ch/) (62)
 * [Tool Finder](https://toolfinder.co/submit-your-tool) (62)
 * [Uneed](https://www.uneed.best/submit-a-tool?atp=fmerian) (67)
 
