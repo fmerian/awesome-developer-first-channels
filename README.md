@@ -219,6 +219,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [DevTool.io](https://devtool.io/)
 * [early.tools](https://www.early.tools/submit) (24) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [Find Dev Tools](https://finddev.tools/submit)
+* [Firsto.co](https://firsto.co/projects/submit) (34)
 * [FreeStuffDev](https://freestuff.dev/submit)
 * [Future Tools](https://www.futuretools.io/submit-a-tool) (63)
 * [Futurepedia](https://www.futurepedia.io/submit-tool) (71) 
