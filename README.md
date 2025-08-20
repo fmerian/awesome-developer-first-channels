@@ -1,6 +1,6 @@
 # awesome-developer-first-channels
 
-Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmccaff](https://github.com/mmccaff/PlacesToPostYourStartup), this repository is a non-exhaustive list of awesome places **for developer-first products.**
+Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmccaff](https://github.com/mmccaff/PlacesToPostYourStartup), this repository is a non-exhaustive list of awesome places **for developer-first products.** You might also like [awesome-product-hunt](https://git.new/meow).
 
 [Want to contribute?](#contributing)
 
