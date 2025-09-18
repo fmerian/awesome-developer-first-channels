@@ -141,6 +141,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [/r/ProductHunters](https://www.reddit.com/r/ProductHunters/)
 * [/r/programming](https://www.reddit.com/r/programming/)
 * [/r/QualityAssurance](https://www.reddit.com/r/QualityAssurance/)
+* [/r/rag](https://www.reddit.com/r/Rag/)
 * [/r/ReverseEngineering](https://www.reddit.com/r/ReverseEngineering/)
 * [/r/selfhosted](https://www.reddit.com/r/selfhosted/) ![open-source](https://img.shields.io/badge/open--source-black)
 * [/r/software](https://www.reddit.com/r/software/)
