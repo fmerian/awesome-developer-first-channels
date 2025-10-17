@@ -222,6 +222,7 @@ Including Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [Devlightful](https://devlightful.dev/)
 * [DevTool.io](https://devtool.io/)
 * [early.tools](https://www.early.tools/submit) (24) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
+* [EveryDev.ai](https://www.everydev.ai/tools)
 * [Find Dev Tools](https://finddev.tools/submit)
 * [Firsto.co](https://firsto.co/projects/submit) (34)
 * [FreeStuffDev](https://freestuff.dev/submit)
