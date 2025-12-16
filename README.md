@@ -271,6 +271,7 @@ Sorted by Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [tech.eu](https://tech.eu/guest-writer/) (78)
 * [The Changelog](https://changelog.com/news/submit) (77)
 * [Datanami](https://www.datanami.com/about/#writeforus) (77)
+* [daily.dev](https://daily.dev/) (75)
 * [Nordic APIs](https://nordicapis.com/create-with-us/) (74)
 * [RTInsights](https://www.rtinsights.com/write-for-us/) (72)
 
