@@ -226,6 +226,7 @@ Sorted by Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [Tool Finder](https://toolfinder.co/submit-your-tool) (62)
 * [AI Tools Directory](https://www.whalesync.com/tools/ai-directory) (58)
 * [DevHunt](https://devhunt.org/) (58)
+* [ZPlatform.ai](https://zplatform.ai/submit-ai-tool/) (51)
 * [Microlaunch](https://microlaunch.net) (43)
 * [openalternative.co](https://openalternative.co/) ![open-source](https://img.shields.io/badge/open--source-black) (40)
 * [Open Source Alternative To](https://www.opensourcealternative.to/submit) ![open-source](https://img.shields.io/badge/open--source-black) (39)
