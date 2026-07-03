@@ -93,6 +93,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 * [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters)
 * [developer-newsletters](https://github.com/jackbridger/developer-newsletters)
+* [awesome-tech-newsletters](https://github.com/Infrasity-Labs/awesome-tech-newsletter)
 
 [↑ back to top](#contents)
 
