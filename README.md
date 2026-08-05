@@ -114,6 +114,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 ### more podcasts ↓
 
 * [awesome-dev-podcasts](https://github.com/swyxio/awesome-dev-podcasts)
+* [Awesome Developer Podcasts](https://github.com/Infrasity-Labs/awesome-developer-podcasts)
 
 [↑ back to top](#contents)
 
