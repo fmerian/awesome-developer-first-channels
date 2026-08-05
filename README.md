@@ -250,6 +250,7 @@ Sorted by Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [SaaSHub](https://www.saashub.com/submit)
 * [StackShare](https://stackshare.io/)
 * [Stackradar](https://www.stackradar.co/submit-a-product)
+* [Not Human Search](https://nothumansearch.ai/submit) — directory that indexes sites by their *agentic readiness* (llms.txt, OpenAPI, ai-plugin, MCP, structured API). Specifically for tools meant to be consumed by AI agents. Free to submit.
 
 ### publications
 
