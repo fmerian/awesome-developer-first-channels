@@ -160,6 +160,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 
 ## Slack communities
 
+* [Antiburn — AI Coding Workflows](https://antiburn.ai/slack)
 * [APIs You Won't Hate](https://apisyouwonthate.com/community/)
 * [Changelog Developer Community](https://changelog.com/community)
 * [CNCF](https://communityinviter.com/apps/cloud-native/cncf) ![open-source](https://img.shields.io/badge/open--source-black)
