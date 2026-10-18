@@ -250,6 +250,7 @@ Sorted by Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [SaaSHub](https://www.saashub.com/submit)
 * [StackShare](https://stackshare.io/)
 * [Stackradar](https://www.stackradar.co/submit-a-product)
+* [ZeroRaised](https://zeroraised.com)
 
 ### publications
 
