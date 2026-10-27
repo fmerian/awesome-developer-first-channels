@@ -223,6 +223,7 @@ Sorted by Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [LibHunt](https://www.libhunt.com/site/project_submit) (69) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Uneed](https://www.uneed.best/submit-a-tool?atp=fmerian) (67)
 * [Future Tools](https://www.futuretools.io/submit-a-tool) (63)
+* [RespawnStack](https://respawnstack.com/) - Curated AI tools directory for game developers
 * [TinyLaunch](https://www.tinylaun.ch/) (62)
 * [Tool Finder](https://toolfinder.co/submit-your-tool) (62)
 * [AI Tools Directory](https://www.whalesync.com/tools/ai-directory) (58)
