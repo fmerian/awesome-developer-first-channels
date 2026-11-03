@@ -100,6 +100,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 ## podcasts
 
 * [99 Dev Problems](https://hub.builtfor.dev/public/events)
+* [CodingCat.dev](https://codingcat.dev/podcasts)
 * [Command Line Heroes](https://open.spotify.com/show/4Jgtgr4mHXNDyLldHkfEMz?si=f101a5d4ca504ec6)
 * [Compressed FM](https://www.compressed.fm/)
 * [Front End Happy Hour](https://open.spotify.com/show/0Giuw6eNbTzP9CDZODDrA2?si=8bfc98d071534f16)
