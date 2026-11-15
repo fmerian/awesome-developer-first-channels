@@ -229,6 +229,7 @@ Sorted by Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [AI Tools Directory](https://www.whalesync.com/tools/ai-directory) (58)
 * [DevHunt](https://devhunt.org/) (58)
 * [Microlaunch](https://microlaunch.net) (43)
+* [Awesome Indie](https://awesomeindie.com/submit) (41)
 * [openalternative.co](https://openalternative.co/) ![open-source](https://img.shields.io/badge/open--source-black) (40)
 * [Open Source Alternative To](https://www.opensourcealternative.to/submit) ![open-source](https://img.shields.io/badge/open--source-black) (39)
 * [Firsto.co](https://firsto.co/projects/submit) (34)
