@@ -219,6 +219,7 @@ Sorted by Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
   * [awesome-developer-first](https://www.producthunt.com/@fmerian/collections/awesome-developer-first)
   * [awesome-oss-companies](https://www.producthunt.com/@fmerian/collections/5-open-source-alternatives) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Beautiful Open Source SaaS](https://oss.framer.website/) ![open-source](https://img.shields.io/badge/open--source-black) (82)
+* [daily.dev for Startups](https://daily.dev/startups/) (75)
 * [BetaList](https://betalist.com/submit) (73) ![beta-releases](https://img.shields.io/badge/beta--releases-black)
 * [Futurepedia](https://www.futurepedia.io/submit-tool) (71) 
 * [LibHunt](https://www.libhunt.com/site/project_submit) (69) ![open-source](https://img.shields.io/badge/open--source-black)
