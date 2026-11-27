@@ -247,6 +247,7 @@ Sorted by Domain Ratings, as measured by [Ahrefs](https://ahrefs.com/website-aut
 * [Open Source Marketplace](https://atlas.scoutflo.com/) ![open-source](https://img.shields.io/badge/open--source-black)
 * [Open Source Software](https://osssoftware.org/) ![open-source](https://img.shields.io/badge/open--source-black)
 * [oss.gallery](https://oss.gallery/) ![open-source](https://img.shields.io/badge/open--source-black)
+* [qmetrics.net](https://qmetrics.net/submit) ![open-source](https://img.shields.io/badge/open--source-black)
 * [SaaSHub](https://www.saashub.com/submit)
 * [StackShare](https://stackshare.io/)
 * [Stackradar](https://www.stackradar.co/submit-a-product)
